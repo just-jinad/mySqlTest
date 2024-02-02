@@ -1,5 +1,6 @@
 Question 1
 
+SELECT * from employees WHERE ROWNUM <= 15
 
 Question 2
 
